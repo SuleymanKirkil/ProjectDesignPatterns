@@ -1,4 +1,4 @@
-package design.patterns.single;
+package design.patterns.singleton;
 
 import design.patterns.pom.pages.RadioButtonPage;
 import org.testng.annotations.AfterMethod;
